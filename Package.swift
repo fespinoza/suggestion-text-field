@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "SuggestionTextField",
+    name: "suggestion-text-field",
     platforms: [.macOS(.v14)],
     products: [
         .library(
